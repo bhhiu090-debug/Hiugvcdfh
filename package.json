@@ -1,0 +1,6 @@
+{
+  "name": "cube-bot-server",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": "20.x" }
+}
